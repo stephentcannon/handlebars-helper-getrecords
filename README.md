@@ -6,7 +6,5 @@ usage
 ======
 
 ````
-
 {{#each getRecordsByName '{"name": "something"}' '{"sort": {"order": 1}}' 'MyCollection'}}
-
 ````

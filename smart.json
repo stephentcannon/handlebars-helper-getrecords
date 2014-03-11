@@ -1,0 +1,9 @@
+{
+  "name": "handlebars-helper-getrecords",
+  "description": "A handlebars helper that extends the ability to get records from any collection by query, options and name to the template.",
+  "homepage": "https://github.com/stephentcannon/handlebars-helper-getrecords",
+  "author": "EtherPOS (http://www.etherpos.com)",
+  "version": "0.0.1",
+  "git": "https://github.com/stephentcannon/handlebars-helper-getrecords",
+  "packages": {}
+}
