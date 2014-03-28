@@ -3,7 +3,7 @@ Package.describe({
 });
 
 Package.on_use(function (api, where) {
-   api.use(['handlebars'], 'client');
+  api.use(['handlebars'], 'client');
   api.add_files([
     'client/helper.js',
     ], 
